@@ -108,8 +108,6 @@ This project emphasizes the use of reusable, modular components to enhance code 
 
 5. **CustomRadio**: A radio button component for single selection from a list of options.
 
-5. **CustomRadio**: A radio button component for single selection from a list of options.
-
 6. **CustomMap**: An interactive map component that integrates Google Maps functionality for location selection and display. Key features include:
 
    - **Location Search**: Utilizes Google Places Autocomplete for easy location search.
